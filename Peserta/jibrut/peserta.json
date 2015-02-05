@@ -1,0 +1,18 @@
+{
+  "namaKelompok": "Bojong Berseri",
+  "anggota": [
+    {
+      "nama": "Bakso Enak",
+      "twitter": "",
+      "github": "",
+      "lokasi": "Bojong, ID",
+      "kapten": true
+    }, 
+    {
+      "nama": "Siomay Enak",
+      "twitter": "",
+      "github": "",
+      "lokasi": "Bojong, ID"
+    }
+  ]
+}
