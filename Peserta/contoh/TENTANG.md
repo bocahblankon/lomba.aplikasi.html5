@@ -1,24 +1,17 @@
-Jibrut
-======
+Halo
+=====
 
-Kami adalah kelompok Jibrut! Kami dari Bojong Baru, Jawa Barat Indonesia. Kami suka kopi dan mengetik kode!
+| Soleh Solihun |
+|--- |
+|![Soleh](http://upload.wikimedia.org/wikipedia/id/6/66/Soleh_Solihun_SUC.jpeg) |
 
-Kelompok kami
-=============
+Halo semua, perkenalkan nama saya [Soleh Solihun](http://www.solehsolihun.com/). Saat ini tinggal di Jakarta, Indonesia. Sepertinya saya lebih dikenal sebagai *stand up comedian* oleh banyak orang. Padahal, sebelumnya selama lebih dari tujuh tahun saya jadi jurnalis yang punya kerja sampingan sebagai MC.
 
-| bakso | siomay
-|--- |--- |--- |---
-|![Bakso](https://cldup.com/oRlPiflPJa.png) | ![Siomay](https://cldup.com/DHL89Ztbfj.png) |
-
-Bakso adalah pemrogram web, sedangkan siomay adalah ahli desain.
-
-Yang akan kami lakukan
+Kenapa Ikut Lomba Ini?
 ======================
-Kami akan membuat gim berbasis HTML5 dengan grafik yang menarik
+Mengisi waktu luang
 
-
-
-
-
-
+Motto
+=====
+Sesungguhnya mencari ridho Allah itu lebih susah dibandingkan mencari Ridho Rhoma atau Ridho Slank.
 

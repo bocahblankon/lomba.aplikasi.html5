@@ -1,18 +1,5 @@
 {
-  "namaKelompok": "jibrut",
-  "anggota": [
-    {
-      "nama": "Bakso Enak",
-      "twitter": "",
-      "github": "",
-      "lokasi": "Bojong, ID",
-      "kapten": true
-    }, 
-    {
-      "nama": "Siomay Enak",
-      "twitter": "",
-      "github": "",
-      "lokasi": "Bojong, ID"
-    }
-  ]
+  "nama": "Soleh Solihun",
+  "github": "https://github.com/blankoding",
+  "lokasi": "Jakarta, ID"
 }
