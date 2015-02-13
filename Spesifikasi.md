@@ -9,6 +9,75 @@ Aplikasi Android Riwayat Medis
 # Konsep
 Aplikasi yang menyimpan catatan medis pasien di perangkat Android.
 
+# Fungsionalitas
+## Manajemen data pasien
+## Laporan
+## 
+
+# Data
+## Data pasien
+* Nomor registrasi
+* Nama
+* Jenis kelamin
+* Tanggal lahir
+* Alamat Rumah
+* Kota
+* no telp rumah
+* nomor HP
+
+## Data medis
+* Nomor registrasi pasien
+* Nomor rekam medis
+* Tanggal
+* Lokasi pertermuan
+* Diagnosa
+* Tindakan
+* Keluhan (text pendek mungkin 100 karakter cukup)
+* Anamnesa (teks panjang / memo karena akan cerita banyak di sini)
+* Pemeriksaan (teks panjang/memo)
+* Pemeriksaan penunjang (teks panjang/memo)
+* Gambar (bisa dimasukkan maksimal 6 gambar di sini, rencananya akan diambil langsung dari kamera/flash disk)
+* Keterangan gambar (memo)
+* Diagnosa 1 (lihat data diagnosa di bawah)
+* Diagnosa 2
+* Diagnosa 3
+* Diagnosa 4
+* Diagnosa 5
+* Rencana (memo)
+ 
+## Data terapi
+* Nomor rekam medis
+* Nama obat
+* Jumlah
+* Aturan penggunaan
+
+## Data diagnosa
+* Kode ICD
+* Diagnosa
+
+## Data dokter
+* Nama dokter
+* Nomor Surat Izin Praktik
+* Alamat praktik
+* Telepon praktik
+* Nama Rumah Sakit
+* Alamat Rumah Sakit
+* Telepon Rumah Sakit
+
+# Halaman
+## Formulir pasien
+
+Isi data pasien
+
+## Halaman laporan
+
+
+## Halaman setting
+
+* Isi/ubah data dokter
+* Isi/ubah data diagnosa
+
+
 terdiri dari beberapa link
 
 I. Masukkan data pasien baru
