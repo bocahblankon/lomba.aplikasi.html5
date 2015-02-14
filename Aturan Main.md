@@ -12,6 +12,6 @@
 
 # Kriteria penjurian
 * Kelengkapan spesifikasi aplikasi
-* Desain interface user friendly
+* Desain interface
 * Efektifitas aplikasi maupun penulisan kode sumber
 * Aplikasi berfungsi dengan baik
