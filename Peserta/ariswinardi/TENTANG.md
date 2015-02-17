@@ -3,7 +3,7 @@ Halo
 
 | Aris Winardi |
 |--- |
-|![winardiaris](https://dl-web.dropbox.com/get/winardiaris.jpg?_subject_uid=136607063&w=AAAiNOHHKKEADR8qP2dlNim2rEShPnCOSrjz_XZ5yI8zRg) |
+|![winardiaris](https://lh3.googleusercontent.com/nXSfwPzK4tZqCn0jnyVs3x1UeM6CyglU6y5Q56-UgFTiSJiLjJKLrLbI721RHXHFP0I2tuQEhJM=w1342-h488) |
 
 Halo semua, perkenalkan nama saya [Aris Winardi](https://www.facebook.com/ArisWinardySessionII). 
 
