@@ -25,7 +25,7 @@ Pendaftaran dibuka dari 5 Februari 2014 s.d. 12 Februari 2014 di[sini](https://d
 |5 | [Ahlul Karom](https://github.com/akhlul) |
 |6 | [Argo Nurcahyo](https://github.com/argonurcahyo) |
 |7 | [Aris Eko Priyanto](https://github.com/arisgith) |
-|8 | [Aris Winardi](https://github.com/winardiaris) |
+|8 | Batal ikut lomba |
 |9 | [Choerul Afifanto](https://github.com/cirulapiph) |
 |10| [Debi Tomika](https://github.com/debitomika) |
 |11| [Eka Adi Firmanda](https://github.com/mamanxxx) |
