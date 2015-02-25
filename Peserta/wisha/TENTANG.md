@@ -1,0 +1,18 @@
+Halo
+=====
+
+| Wisha |
+|--- |
+|![wisha](http://teuacanboga.com/teuboga.jpeg) |
+
+Alasan ikut ini ingin belajar html5, sekalian kalo enggak ada ginian saya kg ngoprek-ngoprek alias nunda2 ngoprek html5
+semoga aja berguna
+
+Kenapa Ikut Lomba Ini?
+======================
+Belajar git,html5,cordova dll semoga aja berguna
+
+Motto
+=====
+All izz well
+
